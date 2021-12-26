@@ -1,19 +1,19 @@
-#Artyom Serchenya
+# Artyom Serchenya
 ---
 
-##Contacts
+## Contacts
 ---
 * Location: Belarus, Minsk
 * Phone: +375333163791
 * Email: artyom021997d@gmail.com
 * GitHub: @Ancient-Mystery
 
-##About Me
+## About Me
 ---
 I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.
 I am reliable and dependable and often seek new responsibilities within a wide range of employment areas.
 
-##Skills
+## Skills
 ---
 * HTML
 * CSS
@@ -23,9 +23,9 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 * QA
 * Different No-code tools
 
-##Code Example
+## Code Example
 ---
-'''
+```
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -50,19 +50,19 @@ I am reliable and dependable and often seek new responsibilities within a wide r
     </div>    
   </body>
 </html>
-'''
+```
 
-##Experience
+## Experience
 ---
 * No-code developer at the startup "WeLoveNoCode"
     - August 2021 - current time
 
-##Education
+## Education
 ---
 * Aducar - QA manual
 * CyberGizer - DevOps
 * AKDev - QA manual (internship)
 
-##English
+## English
 ---
 A2 - everyday communicating with clients from USA
